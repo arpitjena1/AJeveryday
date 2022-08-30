@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AJeveryday
+- 👋 Hi, I’m Arpit Jena
 - 👀 MERN stack, App Dev
 - 🌱 machine learning
-- 💞️ Future Gael!
+- Gael
 - 📫 arpitjenadublin@gmail.com
 
